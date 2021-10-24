@@ -37,7 +37,11 @@ Remember:
 --git status
 --git log
 --git diff
+--git push origin main
 
 Check later: 
 Is there a way to track command line history? 
 What does the -m in git commit -m mean?
+What happens when you commit an unstaged file? Nothing?
+--What does this mean: commit b1739d53549bd77159c6a700b29606591f8e9a87 (HEAD -> main, origin/main)
+
