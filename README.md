@@ -25,6 +25,7 @@ Need to learn how to add and commit files within a directory in the parent odin-
 
 --Tested commiting 2 of 3 files at once using git commit -m "Add recipes/lasagna.html and add recipes/mexican-corn-salad.html" Both commited but recipes/pizza.html disappeared from staging. Why? 
 --Still don't know where it went, but commited recipes/pizza.html by modifying the file then adding it staging area. 
+----Ohhh. The commit command commits all staged files. The text between the quotation marks is a message describing the commit. 
 ___________________________________
 After Project:
 
@@ -44,4 +45,4 @@ Is there a way to track command line history?
 What does the -m in git commit -m mean?
 What happens when you commit an unstaged file? Nothing?
 --What does this mean: commit b1739d53549bd77159c6a700b29606591f8e9a87 (HEAD -> main, origin/main)
-
+--Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
